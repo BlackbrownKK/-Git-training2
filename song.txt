@@ -1,1 +1,3 @@
  this song ver 01
+This program will help students learn Java from the basics to
+web development, and then apply into practice the knowledge gained.
