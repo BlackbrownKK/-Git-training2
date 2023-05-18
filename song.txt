@@ -1,3 +1,5 @@
  this song ver 01
 This program will help students learn Java from the basics to
 web development, and then apply into practice the knowledge gained.
+
+2. What is the best to use to remove a commit from a remote repository? git revert
