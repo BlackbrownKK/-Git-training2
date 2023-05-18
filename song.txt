@@ -1,4 +1,4 @@
- this song ver 01
+ this not a song ver 01, this is just a text
 This program will help students learn Java from the basics to
 web development, and then apply into practice the knowledge gained.
 
