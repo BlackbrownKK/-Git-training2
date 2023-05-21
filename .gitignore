@@ -30,3 +30,7 @@ bin/
 .idea
 out
 *.iml
+*.db
+*.log 
+*.target 
+*.bin
